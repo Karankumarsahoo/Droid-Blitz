@@ -23,7 +23,8 @@ RC Car is an a wireless remote-controlled car designed to autonomously navigate 
 Written on Arduino. There are two version: 
 -code.ino
 # Circuit
-![image][https://github.com/Karankumarsahoo/Droid-Blitz/blob/main/kashi.png]
+Circuit Diagram
+![image](https://github.com/Karankumarsahoo/Droid-Blitz/blob/main/kashi.png)
 
 # Members
 -Karan Kumar Sahoo 
