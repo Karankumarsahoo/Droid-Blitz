@@ -15,12 +15,7 @@ RC car made for the purpose of participation in competition.
 RC Car is an a wireless remote-controlled car designed to autonomously navigate and avoid obstacles, ensuring it reaches its destination in the shortest time possible. By using the transmitter and receiver system, the position of the joystick controls are transmitted to the Arduino, which manages the RC car's direction and speed. Specifically, the left joystick is used to regulate the car's speed, allowing for acceleration and deceleration, while the right joystick controls the car's direction, enabling precise steering. The Arduino interprets these joystick movements and translates them into corresponding commands that adjust both the speed and steering of the RC car, ensuring responsive and accurate control.
 # Code (Arduino)
 Written on Arduino. There are two version: 
-- Casewise/Conditional high-lows (_Used in NIRMAN-2.0_)  
-    Codes: v0 and v3   
-- PID (_Used in Wissenaire-23_)  
-    Codes: v20,v21,v22,v32,v4
-    v4 being the latest.  
-    _Note_  that v4 code has an `speed(255,255)` in `//sharp left` case. This was a deliberate change to account for the multiple left turns in the track. This also helped in escaping a right loop, significantly reducing lap time.
+-CODE
 # Circuit
 Generic Design for motors with 5 sensors to arduino.
 ### Wirings
