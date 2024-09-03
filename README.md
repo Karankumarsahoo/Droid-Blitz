@@ -26,6 +26,6 @@ Written on Arduino. There are two version:
 [image]![
 
 # Members
-Karan Kumar Sahoo 
-Shibashis Divyajyoti
-Suraj Pradhan
+-Karan Kumar Sahoo 
+-Shibashis Divyajyoti
+-Suraj Pradhan
