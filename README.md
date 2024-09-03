@@ -27,6 +27,6 @@ Circuit Diagram
 ![image](https://github.com/Karankumarsahoo/Droid-Blitz/blob/main/kashi.png)
 
 # Members
--Karan Kumar Sahoo 
--Shibashis Divyajyoti
--Suraj Pradhan
+- Karan Kumar Sahoo 
+- Shibashis Divyajyoti
+- Suraj Pradhan
