@@ -1,5 +1,5 @@
 # KaShi
-RC car made for the purpose of participation in competition. 
+RC car made for the purpose of participation in competition. _Named 'KaShi' after the creators!_
 
  Components & Materials
 - Arduino Uno & Connector
